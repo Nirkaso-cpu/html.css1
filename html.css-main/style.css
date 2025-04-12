@@ -1,0 +1,30 @@
+h1 {
+    display: inline;
+    color:blueviolet;
+    border-radius: 30%;
+    border-color: crimson;
+    border: 4px dotted rgb(67, 168, 129);
+}
+
+img {
+    border-radius: 40%;
+    border-color: yellow;
+    border: 4px double yellow;
+}
+
+td, th {
+    border-radius: 10px;
+    border: 5px double crimson;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+body {
+    background-color: rgb(82, 209, 139);
+}
+
+th {
+    background-color: rgb(196, 8, 8);
+}
