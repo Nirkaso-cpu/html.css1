@@ -28,3 +28,26 @@ body {
 th {
     background-color: rgb(196, 8, 8);
 }
+
+.d {
+    text-align: center;
+}
+
+.address1 {
+    text-align: center;
+    color: crimson;
+}
+
+.address2 {
+    text-align: center;
+    color: crimson;
+}
+
+.address3 {
+    text-align: center;
+    color: crimson;
+}
+
+a {
+    text-decoration: none;
+}
