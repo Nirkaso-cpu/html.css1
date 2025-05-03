@@ -31,11 +31,13 @@ th {
 
 .d {
     text-align: center;
+    font-size: 30px;
 }
 
 .address1 {
     text-align: center;
     color: crimson;
+    font-size: 30px;
 }
 
 .address2 {
@@ -50,4 +52,33 @@ th {
 
 a {
     text-decoration: none;
+}
+
+.games {
+    border: 5px solid rgb(136, 212, 190);
+    background-color: rgb(136, 212, 190);
+    border-radius: 35px;
+    width: 350px;
+    margin: ;
+    font-size: 30px;
+
+}
+
+.aboutme {
+    border: 5px solid rgb(179, 50, 50);
+    background-color: rgb(179, 50, 50);
+    width: 350px;
+    border-radius: 35px;
+    margin-left: 750px;
+    margin-top: 100px;
+    font-size: 30px;
+}
+
+.food {
+    border: 5px solid rgb(16, 107, 36);
+    background-color: rgb(16, 107, 36);
+    width: 350px;
+    border-radius: 35px;
+    font-size: 30px;
+    margin-left: 990px;
 }
